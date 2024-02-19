@@ -3,7 +3,7 @@
   "scope": "rubynor",
   "alias": ["bigfive-test.com"],
   "env": {
-    "MONGODB_URI": "mongodb+srv://fengluobajiao:G072z6McZrjkGNQI@cluster0.puebuxw.mongodb.net/?retryWrites=true&w=majority",
+    "MONGODB_URI": "@mongodb_uri",
     "MONGODB_COLLECTION": "results",
     "BASE_URL": "https://bigfive-test.com"
   },
